@@ -1,5 +1,5 @@
 {
-    "name": "keven/flysystem-concatenate",
+    "name": "imrantune/flysystem-concatenate",
     "description": "Concatenation plugin for league/flysystem",
     "license": "mit",
     "type": "library",
@@ -17,7 +17,7 @@
         }
     },
     "require": {
-        "league/flysystem": "^1.0",
+        "league/flysystem": "^2.0",
         "keven/append-stream": "^1.0"
     },
     "require-dev": {
