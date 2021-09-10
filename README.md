@@ -9,7 +9,7 @@ It relies on streams so manipulating big files does not fill the memory.
 ## Install
 
 ```shell
-composer require keven/flysystem-concatenate
+composer require imrantune/flysystem-concatenate
 ```
 
 ## Usage
